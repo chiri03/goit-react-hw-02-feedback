@@ -1,0 +1,16 @@
+.feedbackElement{
+  width: 100px;
+  height: 25px;
+  margin-bottom: 10px;
+  border: 1px solid;
+  background-color: transparent;
+  border-radius: 4px;
+ text-align: center;
+  &:hover {
+    background-color: #2196f3;
+    border: 1px solid #2196f3;
+    color: #fff;
+    cursor: pointer;
+  }
+
+}
